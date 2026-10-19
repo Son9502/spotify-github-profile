@@ -147,3 +147,4 @@ coverage.xml
 # Security scanning
 .bandit
 safety-report.json
+.env*
